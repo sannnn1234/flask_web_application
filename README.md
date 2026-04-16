@@ -123,9 +123,6 @@ Form pre-filled with student details.
 
 ---
 
-## License
-
-MIT License
 
 ---
 
