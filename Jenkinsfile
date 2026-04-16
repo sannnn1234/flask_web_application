@@ -6,7 +6,7 @@ pipeline {
         PORT = "4000"
         MONGO_URI = credentials('MONGO_URI')
         SECRET_KEY = credentials('SECRET_KEY')
-        BRANCH = "master"
+        BRANCH = "main"
         REPO = "https://github.com/sannnn1234/flask_web_application.git"
     }
 
